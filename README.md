@@ -13,3 +13,5 @@ Ultrasonic Ranging Module 4P - HC-SR04
 ## Afbeeldingen
 ![afbeelding sonar](images/sonar_voorkant.jpg)
 ![afbeelding sonar achterkant](images/sonar_achterkant.jpg)
+## uitleg
+www-data = the user that Apache uses when an external (remote) client connects to your web server.
