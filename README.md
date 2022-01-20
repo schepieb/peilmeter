@@ -11,4 +11,4 @@ Ultrasonic Ranging Module 4P - HC-SR04
 ## Software
 ## Eigen scripts en programma's
 ## Afbeeldingen
-!(images/1033.jpg)
+![afbeelding sensor](images/1033.jpg)
